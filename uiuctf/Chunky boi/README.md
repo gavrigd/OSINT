@@ -1,4 +1,4 @@
-# Solve:
+# Write-up
 # Source picture:
 ![chal (1)](https://github.com/gavrigd/OSINT/assets/122211306/267f7ead-0703-42af-8fff-1a7410a50c1b)
 
