@@ -18,3 +18,4 @@ Research this place on Google Maps
 ![image](https://github.com/gavrigd/OSINT/assets/122211306/3f620b54-2133-4be6-bbb5-4e79a9fabcab)
 ![image](https://github.com/gavrigd/OSINT/assets/122211306/00621746-23ad-4007-a42f-24d3326a3670)
 
+## *Coordinates: 47.46276169313011, -122.30335330849121*
